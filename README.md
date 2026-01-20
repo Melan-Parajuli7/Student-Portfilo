@@ -41,18 +41,17 @@ These elements are documented as HTML comments inside `index.html`.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](ss/Dashboard.png)
 
 ### Inspected Dashboard
-![Inspect Dashboard](inspect_Dashboard.png)
+![inspect_Dashboard](ss/inspect_Dashboard.png)
 
 ### Project Structure
-![Project Structure](Project-Structure.png)
+![Project Structure](ss/Project-Structure.png)
 
 ## Project Files
 * `index.html` – Main HTML file containing semantic structure
 * `style.css` – External CSS file with selector implementations
 
 ## Author
-**Name:** Melan Parajuli 
-**Program:** Software Engineering
+**Name:** Melan Parajuli
