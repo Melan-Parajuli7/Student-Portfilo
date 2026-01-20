@@ -41,13 +41,13 @@ These elements are documented as HTML comments inside `index.html`.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](ss/Dashboard.png)
+![Dashboard](SS/Dashboard.png)
 
 ### Inspected Dashboard
-![inspect_Dashboard](ss/inspect_Dashboard.png)
+![inspect_Dashboard](SS/inspect_Dashboard.png)
 
 ### Project Structure
-![Project Structure](ss/Project-Structure.png)
+![Project Structure](SS/Project-Structure.png)
 
 ## Project Files
 * `index.html` – Main HTML file containing semantic structure
